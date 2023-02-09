@@ -1,4 +1,2 @@
 #!/bin/bash
-0-current_working_director
-1-listi
-README.md
+0-current_working_director 1-listit README.md
